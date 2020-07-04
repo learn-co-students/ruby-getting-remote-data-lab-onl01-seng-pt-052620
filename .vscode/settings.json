@@ -1,0 +1,4 @@
+{
+    "ruby.useLanguageServer": true,
+    "solargraph.folding": false
+}
